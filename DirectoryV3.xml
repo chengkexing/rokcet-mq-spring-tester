@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trees>
+    <tree path="/rabbitmq-basic-best-pracitces" title="消息模式-普通消息"/>
+    <tree path="/rocket-normal-message/src/main/java/com/etc/test/consumer/error" title="失败的监听"/>
+    <tree path="/rocket-normal-message/src/main/java/com/etc/test/consumer/nomal" title="普通消息" extension=""
+          presentableText="" tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/rocket-normal-message/src/main/java/com/etc/test/consumer/ordered" title="顺序消息"/>
+    <tree path="/rocket-normal-message/src/main/java/com/etc/test/consumer/delayed" title="延迟消息"/>
+    <tree path="/rocket-normal-message/src/main/java/com/etc/test/consumer/transaction" title="事务消息"/>
+    <tree path="/rocket-normal-message/src/main/java/com/etc/test/consumer/receive" title="请求答复模式" extension=""
+          presentableText="" tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/rocket-normal-message/src/main/java/com/etc/test/consumer/setstart" title="设置消费时间"/>
+</trees>
